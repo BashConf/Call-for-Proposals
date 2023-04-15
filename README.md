@@ -40,7 +40,7 @@ Raise an issue and include the following:
 
 * Title
 * Description
-* Lables for Talk Style, Talk Audience Type
+* Labels for Talk Style, Talk Audience Type
 * Details of any additional information or resources you need if you are submitting for a Teach Me Something Booth like Whiteboard, Marker, Jar, Stickys, Extensions, Crayons etc. anything to make your teach me something booth activity better.
 
 ## I Don't Know How To Create An Issue?
@@ -53,7 +53,8 @@ Raise an issue and include the following:
 
 * We already have created issues and labels for you. You can take help to understand and create you own labels too !
 
-
+## Still not able to create an Issue ? no worries..
+* Click on this form button as link to fill google forms -> [form](https://forms.gle/LEfLHvNCbqPid7SR8)
 
 ## When is the last date to submit ?
 
