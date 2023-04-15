@@ -51,6 +51,7 @@ Raise an issue and include the following:
 * Click on **green New Issue** Button on the right To Create an Issue
 ![NewIssue](https://miro.medium.com/v2/resize:fit:1086/1*O3kiLdth8lveco-Z0Cefdg.png)
 
+* We already have created issues and labels for you. You can take help to understand and create you own labels too !
 
 
 
